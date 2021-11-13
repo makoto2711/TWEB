@@ -1,0 +1,5 @@
+NO OLVIDAR EJECUTAR EL NPM INSTALL
+PARA DESCARGAR TODO LO QUE ESTA DENTRO DEL package.json
+
+Ya que el proyecto ya esta todo listo para ejecutarse
+solo necesita la instalacion de los modulos de node
